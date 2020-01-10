@@ -1,0 +1,25 @@
+Web Development
+
+Three technologies form the foundation for many web applications:
+
+HTML5 specifies the structure of content displayed on a webpage; CSS (cascading style sheets) describes the design and appearance of information on a webpage; and JavaScript allows users to interact with a webpage's content.
+
+Watch a video about web development.
+
+HTML5
+
+HTML5 is the current version of HTML (Hypertext Markup Language) used for creating websites and applications. HTML uses a set of codes called tags to instruct a browser how to display a webpage's content. HTML tags specify the structure of content on a webpage, such as headings, paragraphs, hyperlinks, or images. HTML5 includes tags for playing audio and video files without relying on the use of third-party plug-ins, or modules, such as Adobe Flash, to perform these tasks. Many mobile devices and computers rely on HTML5-compliant browsers, which are capable of interpreting HTML5 tags, to handle these tasks.
+
+Additional HTML5 features include recognizing gestures on mobile devices, performing drag and drop, creating graphics dynamically, accessing a geolocation, and storing content offline. These HTML5 features allow web developers to build applications that meet the needs of people using the web today on many different devices. Each browser implements the HTML5 specification differently and may not support all of its features.
+
+CSS 
+
+While HTML describes a webpage's content as a collection of headings, paragraphs, images, links, and other elements, CSS allows web developers to specify how these elements are formatted in a browser. Web developers may specify the fonts and font sizes, colors, borders, backgrounds, and other styles to apply to each of these elements.
+
+CSS provides web developers with precise control over a webpage's layout. With CSS, web developers can apply different layouts to the same information so that it is formatted appropriately for printing or viewing on computers and devices with varying screen sizes. The current version of CSS is known as CSS3 (cascading style sheets, version 3).
+
+JavaScript
+
+JavaScript is a programming language that adds interactivity to webpages. It often is used to check for appropriate values on web forms, present alert messages, display menus on webpages, and create other dynamic content. Some developers use JavaScript to detect the user's browser version in order to display a webpage especially designed for that browser.
+
+
